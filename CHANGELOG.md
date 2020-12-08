@@ -1,11 +1,11 @@
-# Version 0.25 (12/7/20):
+# Version 0.28 (12/7/20):
     -Added changelog command
     -Added suggestions box
 
-# Version 0.22 (12/6/20):
+# Version 0.26 (12/6/20):
     -Bug fixes
 
-# Version 0.21 (12/5/20):
+# Version 0.25 (12/5/20):
     -Added admin menu for help command
 
 # Version 0.2 (12/5/20):
