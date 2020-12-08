@@ -1,18 +1,19 @@
-<font size = "26"> Version 0.21: </font>
--Added admin menu for help command
+# Version 0.21:
+    -Added admin menu for help command
 
-<font size = "26"> Version 0.2: </font>
--Added embed for help menu
+# Version 0.2:
+    -Added embed for help menu
 
-<font size = "26"> Version 0.15: </font>
--Added custom prefixes
-    -Added shprefix (currentprefix)
+# Version 0.15: 
+#### -Added custom prefixes
+    -setprefix (prefix)
+    -shprefix ( shows current prefix)
 
-<font size = "26"> Version 0.12: </font>
--Added simple commands
+# Version 0.12: 
+#### -Added simple commands
     -ping
     -help
 
-<font size = "26"> Version 0.1: </font>
--Bot started
--Bot online and set up
+# Version 0.1:
+    -Bot started
+    -Bot online and set up
