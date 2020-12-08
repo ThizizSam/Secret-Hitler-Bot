@@ -1,3 +1,7 @@
+# Version 0.25 (12/7/20):
+    -Added changelog command
+    -Added suggestions box
+
 # Version 0.22 (12/6/20):
     -Bug fixes
 
