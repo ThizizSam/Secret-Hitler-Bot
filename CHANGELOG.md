@@ -14,7 +14,7 @@
 # Version 0.15 (12/5/20): 
 #### -Added custom prefixes
     -setprefix (prefix)
-    -shprefix ( shows current prefix)
+    -shprefix (shows current prefix)
 
 # Version 0.12 (12/5/20): 
 #### -Added simple commands
