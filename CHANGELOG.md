@@ -1,3 +1,9 @@
+# Version 0.3 (12/8/20):
+    -Bug fixes
+    -Added Easter egg
+#### -Added start menu
+    -start command
+
 # Version 0.28 (12/7/20):
     -Added changelog command
     -Added suggestions box
