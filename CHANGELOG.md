@@ -1,3 +1,22 @@
+# Version 0.4 (12/9/20:
+    -Bug fixes
+    -Added edition command
+#### -Added setup menu
+    -start command
+    -change players command
+    -restart command
+    -new channel command
+#### -Added new game command
+    -tutorial command
+    -playercount command
+    -setplayers command
+    -checkplayers command
+    -setpresident command
+    -checkpresident command
+    -begin command
+#### -Added editions menu
+    -editions suggest command
+
 # Version 0.3 (12/8/20):
     -Bug fixes
     -Added Easter egg
