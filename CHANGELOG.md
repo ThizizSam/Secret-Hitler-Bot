@@ -1,4 +1,4 @@
-# Version 0.4 (12/9/20:
+# Version 0.4 (12/9/20):
     -Bug fixes
     -Added edition command
 #### -Added setup menu
