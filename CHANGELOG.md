@@ -1,11 +1,32 @@
+# Version 0.46 (12/17/20):
+    -Bug fixes
+    -Removed 3 & 4 player games
+    -Added latency into ping command
+
+# Version 0.45 (12/16/20):
+    -Bug fixes
+    -setpresident command implemented 
+    -Added checkplayercount command
+    -Enhanced layout of newgame command
+
+# Version 0.42 (12/11/20):
+    -Bug fixes
+    -setplayers command implemented
+    -checkplayers command implemented
+    -checkpresident command implemented
+
+# Version 0.41 (12/10/20):
+    -Bug fixes
+    -playercount command implemented
+
 # Version 0.4 (12/9/20):
     -Bug fixes
     -Added edition command
 #### -Added setup menu
     -start command
-    -change players command
+    -changeplayers command
     -restart command
-    -new channel command
+    -newchannel command
 #### -Added new game command
     -tutorial command
     -playercount command
