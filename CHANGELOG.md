@@ -1,4 +1,9 @@
-# Version 0.81 (10/2025):
+# Version 0.90 (10/14/2025):
+    -Added database for maintaining guild settings
+    -Used db to also add leaderboard mechanics
+    -Updated help menus
+
+# Version 0.81 (9/14-10/10 2025):
     -Reworked entire bot for the new Discord API
     -Added rest of commands and functionality
     -Added image generation and embeds for visuals
@@ -76,5 +81,6 @@
 # Version 0.1 (12/4/20):
     -Bot started
     -Bot online and set up
+
 
 
