@@ -1,5 +1,5 @@
 # Version 0.81 (10/2025):
-    -Reworked entire bot for the Discord API
+    -Reworked entire bot for the new Discord API
     -Added rest of commands and functionality
     -Added image generation and embeds for visuals
     -Launched remote server for near 100% uptime
@@ -76,4 +76,5 @@
 # Version 0.1 (12/4/20):
     -Bot started
     -Bot online and set up
+
 
