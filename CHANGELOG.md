@@ -1,3 +1,8 @@
+# Version 0.95 (10/16/2025):
+    -Added handling for all interactions
+    -Added webhook handling
+    -Added lobbies!!! (open and set player count)
+
 # Version 0.91 (10/14/2025):
     -Added profile/stats command
     -Added icon throughout embeds
@@ -86,6 +91,7 @@
 # Version 0.1 (12/4/2020):
     -Bot started
     -Bot online and set up
+
 
 
 
