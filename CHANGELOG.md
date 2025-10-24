@@ -1,3 +1,8 @@
+# Version 1.01 (10/24/2025):
+    -Added global rank to profile
+    -Added pages to leaderboard
+    -Added extra leaderboard functionality
+
 # Version 1.0!!! (10/24/2025):
     -Added slash commands
     -Added modal for suggestions
@@ -97,6 +102,7 @@
 # Version 0.1 (12/4/2020):
     -Bot started
     -Bot online and set up
+
 
 
 
