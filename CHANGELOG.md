@@ -1,3 +1,9 @@
+# Version 1.0!!! (10/24/2025):
+    -Added slash commands
+    -Added modal for suggestions
+    -Added dropdowns for help menus
+    -Updated visuals
+
 # Version 0.95 (10/16/2025):
     -Added handling for all interactions
     -Added webhook handling
@@ -91,6 +97,7 @@
 # Version 0.1 (12/4/2020):
     -Bot started
     -Bot online and set up
+
 
 
 
