@@ -1,3 +1,7 @@
+# Version 1.02 (10/28/2025):
+    -Added old suggestion method back alongside the modals
+    -Bug fixes
+
 # Version 1.01 (10/24/2025):
     -Added global rank to profile
     -Added pages to leaderboard
@@ -102,6 +106,7 @@
 # Version 0.1 (12/4/2020):
     -Bot started
     -Bot online and set up
+
 
 
 
