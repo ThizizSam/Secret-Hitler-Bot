@@ -1,3 +1,6 @@
+# Version 1.1 (01/13/2026):
+    -Upgraded entire imaging system
+
 # Version 1.02 (10/28/2025):
     -Added old suggestion method back alongside the modals
     -Bug fixes
@@ -106,6 +109,7 @@
 # Version 0.1 (12/4/2020):
     -Bot started
     -Bot online and set up
+
 
 
 
